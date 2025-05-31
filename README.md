@@ -14,9 +14,9 @@
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-14002E?style=for-the-badge&logo=daVinciResolve&logoColor=#FFB800)
 ![CapCut](https://img.shields.io/badge/-CapCut-FF6F61?style=for-the-badge&logo=&logoColor=white)
 #  Stats:
-![](https://github-readme-stats.vercel.app/api?username=6cedrick&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=6cedrick&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=6cedrick&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=6sceed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=6sceed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=6sceed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
