@@ -10,18 +10,19 @@
 
 ## **GitHub Stats**
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="70%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sceed&theme=dark&hide_border=true&layout=compact" />
       <br>
       <img src="https://nirzak-streak-stats.vercel.app/?user=6sceed&theme=dark&hide_border=true" />
     </td>
-    <td>
+    <td width="30%" align="center">
       <img src="https://media1.tenor.com/m/P-8ZvqnS4AwAAAAC/dancing-cat-dancing-kitten.gif" width="250" />
     </td>
   </tr>
 </table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
