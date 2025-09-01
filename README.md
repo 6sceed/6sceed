@@ -12,12 +12,12 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" align="center">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sceed&theme=dark&hide_border=true&layout=compact" />
       <br>
       <img src="https://nirzak-streak-stats.vercel.app/?user=6sceed&theme=dark&hide_border=true" />
     </td>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <img src="https://media1.tenor.com/m/P-8ZvqnS4AwAAAAC/dancing-cat-dancing-kitten.gif" width="250" />
     </td>
   </tr>
