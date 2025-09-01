@@ -12,19 +12,17 @@
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td width="60%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sceed&theme=dark&hide_border=true&layout=compact" />
-    </td>
-    <td align="center">
+      <br>
       <img src="https://nirzak-streak-stats.vercel.app/?user=6sceed&theme=dark&hide_border=true" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="40%" align="center">
       <img src="https://media1.tenor.com/m/P-8ZvqnS4AwAAAAC/dancing-cat-dancing-kitten.gif" width="250" />
     </td>
   </tr>
 </table>
+
 
 
 
