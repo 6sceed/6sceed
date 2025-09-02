@@ -8,16 +8,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="flex: 1 1 300px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sceed&theme=dark&hide_border=true&layout=compact" style="max-width: 100%; height: auto;" />
-    <br>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=6sceed&theme=dark&hide_border=true" style="max-width: 100%; height: auto;" />
-  </div>
-  <div style="flex: 1 1 250px; text-align: center;">
-    <img src="https://media1.tenor.com/m/P-8ZvqnS4AwAAAAC/dancing-cat-dancing-kitten.gif" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+## **GitHub Stats**
+<table width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sceed&theme=dark&hide_border=true&layout=compact" style="max-width: 100%; height: auto;" />
+      <br>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=6sceed&theme=dark&hide_border=true" style="max-width: 100%; height: auto;" />
+    </td>
+    <td width="25%" align="center" style="max-width: 120px;">
+      <img src="https://media1.tenor.com/m/P-8ZvqnS4AwAAAAC/dancing-cat-dancing-kitten.gif" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
