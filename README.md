@@ -3,7 +3,8 @@
 # **Cedrick Garcia**  
 
 
-[![Discord](https://img.shields.io/badge/Discord-6sceed-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cedisafk) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6sceed@gmail.com)
+[![Discord](https://img.shields.io/badge/6sceed-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cedisafk) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6sceed@gmail.com)
 
 
 
