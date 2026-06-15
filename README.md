@@ -38,6 +38,6 @@
 
 
 ## **Connect**  
-🌐 [Portfolio](https://cedrickgarcia.tech)
+🌐 [Portfolio]([https://cedrickgarcia.tech](https://6sceed.github.io/cgweb/home.htm))
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
