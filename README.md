@@ -16,8 +16,11 @@
     <td width="75%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sceed&theme=dark&hide_border=true&layout=compact" style="max-width: 100%; height: auto;" />
       <br>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=6sceed&theme=dark&hide_border=true" style="max-width: 100%; height: auto;" />
-    </td>
+      <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=6sceed&theme=github-dark"
+  alt="6sceed's GitHub Activity Graph"
+  style="max-width: 100%; height: auto;"
+/>
     <td width="25%" align="center" style="max-width: 120px;">
       <img src="https://media1.tenor.com/m/P-8ZvqnS4AwAAAAC/dancing-cat-dancing-kitten.gif" style="max-width: 100%; height: auto;" />
     </td>
