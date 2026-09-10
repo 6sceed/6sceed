@@ -4,7 +4,7 @@
 
 
 [![Discord](https://img.shields.io/badge/6sceed-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cedisafk) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6sceed@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cedisafk) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cedrick.egarcia@gmail.com)
 
 
 
@@ -14,12 +14,10 @@
 <table width="100%">
   <tr>
     <td width="75%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6sceed&theme=dark&hide_border=true&layout=compact" style="max-width: 100%; height: auto;" />
-      <br>
       <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=6sceed&theme=github-dark"
-  alt="6sceed's GitHub Activity Graph"
-  style="max-width: 100%; height: auto;"
+  src="./assets/contributions.dark.svg"
+  alt="GitHub Contributions"
+  width="100%"
 />
     <td width="25%" align="center" style="max-width: 120px;">
       <img src="https://media1.tenor.com/m/P-8ZvqnS4AwAAAAC/dancing-cat-dancing-kitten.gif" style="max-width: 100%; height: auto;" />
