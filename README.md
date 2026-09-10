@@ -14,8 +14,8 @@
 <table width="100%">
   <tr>
     <td width="75%" align="center">
-      <img
-  src="./assets/contributions.dark.svg"
+    <img
+  src="https://gh-heat.anishroy.com/api/6sceed/svg?theme=purple&darkMode=true"
   alt="GitHub Contributions"
   width="100%"
 />
